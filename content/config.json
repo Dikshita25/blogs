@@ -1,7 +1,7 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Blog by Dikshita Shirodkar",
+  "url": "https://dikshitashirodkar.com",
+  "subtitle": "Personal blog by Dikshita Shirodkar",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -22,13 +22,13 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Dikshita Shirodkar",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Product Manager | Tech Enthusiast | Blogger",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
+      "email": "dikshitashirodkar25@gmail.com",
+      "github": "dikshita25",
       "facebook": "#",
       "telegram": "#",
       "twitter": "#",

@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-lumen",
+  "name": "dikshita-qa",
   "version": "1.6.273",
   "description": "A constantly evolving and thoughtful architecture for creating static blogs with Gatsby",
   "keywords": [
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alxshelepenok/gatsby-starter-lumen.git"
+    "url": "https://github.com/Dikshita25/blogs.git"
   },
   "license": "MIT",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Dikshita Shirodkar <dikshitashirodkar25@gmail.com>",
   "scripts": {
     "build": "npm run clean && gatsby build",
     "clean": "rimraf .cache public",
