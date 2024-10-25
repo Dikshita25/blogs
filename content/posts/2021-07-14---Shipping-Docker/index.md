@@ -7,7 +7,7 @@ tags:
   - "ubuntu"
   - "javascript"
 published: true
-date: "2021-07-14"
+date: "2021-07-14T23:46:37.121Z"
 slug: "/posts/shipDocker"
 description: "In this article you'll learn how to build a Ubuntu 20.04 image. But before starting to build the image, let's quickly have a brief about docker."
 ---

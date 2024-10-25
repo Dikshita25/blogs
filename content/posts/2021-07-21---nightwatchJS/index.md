@@ -1,11 +1,11 @@
 ---
-title: "Power your Cypress tests with CircleCI "
+title: "Structure Nightwatch.js and perform execution within Docker"
 template: "post"
-category: "Cypress"
+category: "NightwatchJS"
 tags:
-  - "cypress"
-  - "circleci"
-  - "javascript"
+  - "docker"
+  - "ubuntu"
+  - "nightwatchJS"
   - "nodejs"
 published: true
 date: "2022-18-23T23:46:37.121Z"
