@@ -12,13 +12,9 @@ draft: false
 date: "2022-18-23T23:46:37.121Z"
 slug: "/posts/cypress-with-CI"
 description: "This blog, will make you understand how to implement your e2e tests using Cypress and do continuous integration and delivery with CircleCI for your tests. "
-socialImage: "./media/cypressCIrcleCI.png"
 ---
 
 This blog, will make you understand how to implement your e2e tests using Cypress and do continuous integration and delivery with CircleCI for your tests.
-<figure class="float-center" style="width: 300px">
-	<img src="/media/cypressCIrcleCI.png" alt="cypress">
-</figure>
 
 ### About Cypress
 Cypress is a next generation front end testing tool, built for modern web app's. Cypress comes fully baked with features like:
