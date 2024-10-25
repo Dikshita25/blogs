@@ -6,6 +6,7 @@ tags:
   - "influxdb"
   - "grafana"
 published: true
+draft: false
 date: "2020-11-26T23:46:37.121Z"
 slug: "/posts/grafana-with-influxDB"
 description: "Unlock the full potential of your data with InfluxDB and Grafana! With this powerful duo, you can easily monitor live metrics and visualize essential stats like CPU, memory, and network performance in real-time, this guide shows how InfluxDB and Grafana can elevate your data game!"

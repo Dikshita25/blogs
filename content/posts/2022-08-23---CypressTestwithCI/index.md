@@ -8,7 +8,8 @@ tags:
   - "javascript"
   - "nodejs"
 published: true
-date: "2022-18-23T23:46:37.121Z"
+draft: false
+date: "2022-18-23"
 slug: "/posts/cypress-with-CI"
 description: "This blog, will make you understand how to implement your e2e tests using Cypress and do continuous integration and delivery with CircleCI for your tests. "
 ---

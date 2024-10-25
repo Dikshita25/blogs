@@ -8,6 +8,7 @@ tags:
   - "Puppeteer"
   - "A11y"
 published: true
+draft: false
 date: "2022-11-21T23:46:37.121Z"
 slug: "/posts/accessbility-pa11y"
 description: "I'm excited to announce the new [pa11y-e2e-tests](https://www.npmjs.com/package/pa11y-e2e-tests) framework, which helps you find accessibility issues of any web app. This enhancement is simple, fast, reliable, and easy to integrate with your existing e2e tests. "

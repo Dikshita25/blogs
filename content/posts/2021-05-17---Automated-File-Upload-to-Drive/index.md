@@ -7,6 +7,7 @@ tags:
   - "googledrive"
   - "Javascript"
 published: true
+draft: false
 date: "2021-05-17T23:46:37.121Z"
 slug: "/posts/upload-files-googleDrive"
 description: "In this guide, we'll explore how to automatically upload files to a cloud storage service, like Google Drive, using Node.js while ensuring that the files are encrypted for security. "

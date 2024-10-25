@@ -10,6 +10,7 @@ tags:
   - "lighthouse"
   - "gatsby"
 published: true
+draft: false
 date: "2021-05-11T23:46:37.121Z"
 slug: "/posts/lighthouse-with-puppeteer"
 description: "Boost your website’s performance with an automated testing setup using Lighthouse, Puppeteer, and GitHub Actions! In this blog, we’ll guide you through setting up a pipeline that runs front-end performance tests automatically on every push. By integrating Lighthouse with Puppeteer, you’ll simulate real user interactions, capturing accurate performance metrics and insights. Then, automate the process using GitHub Actions to ensure every code change is tested for speed, accessibility, and best practices. Follow along to streamline your workflow and keep your front-end optimized without lifting a finger! "

@@ -7,6 +7,7 @@ tags:
   - "javascript"
   - "nightwatch"
 published: true
+draft: false
 date: "2022-11-03T23:46:37.121Z"
 slug: "/posts/UI-Validation-nightwatch"
 description: "In this blog, I’ll walk you through an approach to automate UI attribute validation using Nightwatch, designed for projects with complex, multi-design requirements. Recently, I faced a project challenge involving three different designs that needed testing across various screen resolutions and browsers—a task that’s time-consuming and error-prone if done manually. So, I created an efficient solution to automate UI checks with Nightwatch, validating element attributes across different browsers and resolutions. This method saves time and catches design discrepancies early, streamlining the development and testing process before the website goes live!"

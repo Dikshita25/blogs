@@ -8,6 +8,7 @@ tags:
   - "nightwatchJS"
   - "nodejs"
 published: true
+draft: false
 date: "2022-18-23T23:46:37.121Z"
 slug: "/posts/cypress-with-CI"
 description: "This blog, will make you understand how to implement your e2e tests using Cypress and do continuous integration and delivery with CircleCI for your tests. "

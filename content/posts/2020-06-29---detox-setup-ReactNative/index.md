@@ -10,6 +10,7 @@ tags:
   - "React"
 published: true
 date: "2020-06-29T23:46:37.121Z"
+draft: false
 slug: "/posts/detox-ReactNative-Appcenter"
 description: "Detox, when combined with React Native and App Center, offers a powerful setup for automating end-to-end testing and ensuring high-quality releases across mobile platforms. This setup involves installing Detox in your React Native project, configuring it for both Android and iOS, and specifying testing environments in Detox configuration files. Once configured, integrating with App Center allows you to set up build pipelines that automatically run Detox tests on each build, providing a streamlined CI/CD process. Running and monitoring tests through App Center ensures that your app meets performance and stability standards with every release, giving you confidence in your app's quality before it reaches users."
 ---
