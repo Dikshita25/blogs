@@ -1,26 +1,13 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "../../photo.jpg"
 ---
 
-With over 6 years of experience as a Product Manager, I bring a robust technical background to every project. Throughout my career, I have successfully built and launched a variety of digital platforms, including membership portals, Event Management Systems (EMS), and e-commerce solutions. My expertise spans across automation, software testing, and mobile app development, allowing me to handle complex projects with ease.
+As a Product Manager with over six years of experience, I specialize in delivering high-impact digital solutions, including membership portals, Event Management Systems (EMS), and e-commerce platforms. My strong technical background in automation, software testing, and mobile app development allows me to transform complex projects into user-centric products seamlessly.
 
-I am known for delivering complex projects in Agile environments, ensuring that each phase of development is aligned with business goals and customer needs. My experience in automation and software testing has been instrumental in creating high-quality digital solutions.
+I excel in Agile environments, aligning development phases with business goals and customer needs. My expertise in Scrum methodologies enables me to break down intricate requirements into actionable deliverables, fostering collaboration and execution.
 
-A significant part of my career has involved managing multi-year product roadmaps, where I’ve been able to strategically align product development with long-term business objectives. I also have deep expertise in Scrum methodologies, which I use to break down complex business requirements into manageable deliverables, ensuring that teams can execute effectively.
+Transitioning from a Senior Automation QA Lead to Product Manager, I bridge the gap between technical teams and stakeholders, ensuring quality and innovation at every step. Proficient in tools like Jira, Miro, and Google Analytics, I am committed to driving business success through strategic product development.
 
 
-Transitioned from Senior Automation QA Lead to Product Manager.
-
-Expertise in Agile methodologies, project management, and product launches.
-
-Strong technical background with hands-on experience in automation, CI/CD, and QA processes.
-
-Proven track record of delivering high-impact digital solutions across various domains.
-
-Skilled in bridging the gap between technical teams and business stakeholders.
-
-Experience with tools like Jira, Miro, Selenium, and Google Analytics.
-
-Successfully led projects involving Salesforce, Drupal, and mobile app development.
