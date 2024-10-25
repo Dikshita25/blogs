@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-mail: "./notebook.jpg"
+mail: "dikshitashirodkar25.com"
 ---
 
 As a Product Manager with over six years of experience, I specialize in delivering high-impact digital solutions, including membership portals, Event Management Systems (EMS), and e-commerce platforms. My strong technical background in automation, software testing, and mobile app development allows me to transform complex projects into user-centric products seamlessly.
