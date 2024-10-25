@@ -1,7 +1,7 @@
 ---
 title: "Contact me"
 template: "page"
-socialImage: "../../photo.jpg"
+socialImage: "./book.jpg"
 ---
 
 I’d love to hear from you! Whether you have questions, feedback, or just want to connect, feel free to reach out. Here are a few ways you can contact me:
